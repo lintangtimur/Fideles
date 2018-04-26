@@ -1,0 +1,7 @@
+vendor/
+.vscode/
+composer.lock
+.php_cs
+*.sql
+*.json
+*.xlsx
